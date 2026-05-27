@@ -1,4 +1,4 @@
-# IP Multitool - Advanced Network Utility Suite
+# IP Tools - Advanced Network Utility Suite
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
